@@ -12,7 +12,7 @@ config section
         option faking_strategy 'pastseq'
         option fake_sni_seq_len '5'
         option fake_sni_type 'custom'
-        option fake_custom_payload '112233445566778899aa'
+        option fake_custom_payload 'ff22dd445566778899aa'
         option frag 'ip'
         option frag_sni_reverse '1'
         option frag_sni_faked '0'
